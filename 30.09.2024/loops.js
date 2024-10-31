@@ -117,10 +117,10 @@
 // console.log(sum);
 
 
-let arr= [60, 79, 88, 75, 93, 45]
-let sum=0;
-for (let index = 0; index < arr.length; index++) {
-  sum+=arr[index] / arr.length
-}
-console.log(sum);
+// let arr= [60, 79, 88, 75, 93, 45]
+// let sum=0;
+// for (let index = 0; index < arr.length; index++) {
+//   sum+=arr[index] / arr.length
+// }
+// console.log(sum);
 
