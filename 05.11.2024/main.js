@@ -82,7 +82,7 @@ let milks = [
 
 // function enBahaMilkAd(milks) {
 //     const maxPriceMilk = milks.reduce((maxMilk, currentMilk) => {
-//         return currentMilk.price > maxMilk.price ? currentMilk : maxMilk;
+//         return currentMilk.price > maxMilk.price / currentMilk : maxMilk;
 //     });
 //     return maxPriceMilk.name;
 // }
@@ -99,3 +99,4 @@ let milks = [
 // // Funksiyanı işə salırıq və nəticəni çap edirik
 // let result = qiymetFarkiHesabla(milks);
 // console.log(result);
+// Task 1.10: Məhsullar içərisində Azərbaycan istehsalı olan məhsul varmı?(true or false)
