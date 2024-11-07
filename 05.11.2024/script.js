@@ -293,7 +293,7 @@ const products = [
 // console.log("Z to A:", sortedByTitleZtoA);()
 
 // #hamısının count dəyərinin 100'dən çox olub olmamasını yoxlayın (true/false)
-// const countvalue = Product.count(products => producr.category === 100);
+// const countvalue = Product.count(products => products.category === 100);
 // console.log(countvalue);
 // #category'si "electronics" olanların qiymətini 50% endirin
 // const updatedElectronicsProducts = products.map(product => {
